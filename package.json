@@ -185,7 +185,7 @@
     "z85": "^0.0.2",
     "event-source-polyfill": "1.0.26",
     "faker": "5.5.3",
-    "airbnb-prop-types": "2.16.0"
+    "prop-types-tools": "2.17.0"
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^1.12.0",
