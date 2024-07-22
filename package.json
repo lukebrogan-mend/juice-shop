@@ -182,7 +182,10 @@
     "web3": "^4.0.3",
     "winston": "^3.3.3",
     "yaml-schema-validator": "^1.2.2",
-    "z85": "^0.0.2"
+    "z85": "^0.0.2",
+    "event-source-polyfill": "1.0.26",
+    "faker": "5.5.3",
+    "airbnb-prop-types": "2.16.0"
   },
   "devDependencies": {
     "@cyclonedx/cyclonedx-npm": "^1.12.0",
